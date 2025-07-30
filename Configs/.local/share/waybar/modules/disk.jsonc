@@ -1,0 +1,8 @@
+{
+  "disk": {
+    "tooltip": true,
+    "format-disconnected": "\udb81\uddaa ",
+    "format": "<span>\uf0a0 {percentage_used}%</span>",
+    "path": "/"
+  }
+}

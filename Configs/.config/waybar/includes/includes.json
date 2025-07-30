@@ -1,5 +1,6 @@
 {
     "include": [
+	"/home/khing/.config/waybar/modules/disk.jsonc",
         "/home/khing/.config/waybar/modules/backlight.jsonc",
         "/home/khing/.config/waybar/modules/battery.jsonc",
         "/home/khing/.config/waybar/modules/bluetooth.jsonc",
